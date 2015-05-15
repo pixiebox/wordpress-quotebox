@@ -1,0 +1,78 @@
+# Copyright (C) 2015 Pixiebox
+# This file is distributed under the GPL.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quotebox 0.1\n"
+"Report-Msgid-Bugs-To: http://pixiebox.com/contact\n"
+"POT-Creation-Date: 2015-05-13 09:09:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: admin/class-quote-box-admin.php:123 admin/class-quote-box-admin.php:155
+msgid "Name"
+msgstr ""
+
+#: admin/class-quote-box-admin.php:124 admin/class-quote-box-admin.php:139
+msgid "Jobtitle"
+msgstr ""
+
+#: admin/class-quote-box-admin.php:125 admin/class-quote-box-admin.php:173
+msgid "Show only on"
+msgstr ""
+
+#: includes/class-quote-box-post-type.php:7
+msgid "Quotes"
+msgstr ""
+
+#: includes/class-quote-box-post-type.php:8
+msgid "Quote"
+msgstr ""
+
+#: includes/class-quote-box-post-type.php:9
+msgid "Add New"
+msgstr ""
+
+#: includes/class-quote-box-post-type.php:10
+msgid "Add New Quote"
+msgstr ""
+
+#: includes/class-quote-box-post-type.php:11
+msgid "Edit"
+msgstr ""
+
+#: includes/class-quote-box-post-type.php:12
+msgid "Edit Quote"
+msgstr ""
+
+#: includes/class-quote-box-post-type.php:13
+msgid "New Quote"
+msgstr ""
+
+#: includes/class-quote-box-post-type.php:14
+msgid "View"
+msgstr ""
+
+#: includes/class-quote-box-post-type.php:15
+msgid "View Quote"
+msgstr ""
+
+#: includes/class-quote-box-post-type.php:16
+msgid "No quotes found"
+msgstr ""
+
+#: includes/class-quote-box-post-type.php:17
+msgid "No quotes found in Trash"
+msgstr ""
+
+#: includes/class-quote-box-widget.php:13
+msgid "Displays a random or assigned quote post with thumbnail"
+msgstr ""
+
+#: includes/class-quote-box-widget.php:23
+msgid "Title"
+msgstr ""

@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quotebox 0.1\n"
+"Report-Msgid-Bugs-To: http://pixiebox.com/contact\n"
+"POT-Creation-Date: 2015-05-13 09:09:55+00:00\n"
+"PO-Revision-Date: 2015-05-13 10:10+0100\n"
+"Last-Translator: Patrick Danhof <info@pixiebox.nl>\n"
+"Language-Team: Pixiebox <info@pixiebox.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: admin/class-quote-box-admin.php:123 admin/class-quote-box-admin.php:155
+msgid "Name"
+msgstr "Naam"
+
+#: admin/class-quote-box-admin.php:124 admin/class-quote-box-admin.php:139
+msgid "Jobtitle"
+msgstr "Beroep"
+
+#: admin/class-quote-box-admin.php:125 admin/class-quote-box-admin.php:173
+msgid "Show only on"
+msgstr "Toon alleen op"
+
+#: includes/class-quote-box-post-type.php:7
+msgid "Quotes"
+msgstr "Quotes"
+
+#: includes/class-quote-box-post-type.php:8
+msgid "Quote"
+msgstr "Quote"
+
+#: includes/class-quote-box-post-type.php:9
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: includes/class-quote-box-post-type.php:10
+msgid "Add New Quote"
+msgstr "Nieuwe Quote toevoegen"
+
+#: includes/class-quote-box-post-type.php:11
+msgid "Edit"
+msgstr "Wijzig"
+
+#: includes/class-quote-box-post-type.php:12
+msgid "Edit Quote"
+msgstr "Wijzig Quote"
+
+#: includes/class-quote-box-post-type.php:13
+msgid "New Quote"
+msgstr "Nieuwe Quote"
+
+#: includes/class-quote-box-post-type.php:14
+msgid "View"
+msgstr "Bekijk"
+
+#: includes/class-quote-box-post-type.php:15
+msgid "View Quote"
+msgstr "Bekijk Quote"
+
+#: includes/class-quote-box-post-type.php:16
+msgid "No quotes found"
+msgstr "Geen quotes gevonden"
+
+#: includes/class-quote-box-post-type.php:17
+msgid "No quotes found in Trash"
+msgstr "Geen quotes gevonden in de Prullenbak"
+
+#: includes/class-quote-box-widget.php:13
+msgid "Displays a random or assigned quote post with thumbnail"
+msgstr "Toont een willekeurige, of gekozen, quote met een afbeelding."
+
+#: includes/class-quote-box-widget.php:23
+msgid "Title"
+msgstr "Titel"
